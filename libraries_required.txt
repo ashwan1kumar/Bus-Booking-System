@@ -1,0 +1,5 @@
+Pillow
+Tkinter
+sqlite3
+messagebox
+uuid
