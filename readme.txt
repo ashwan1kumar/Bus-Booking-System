@@ -13,3 +13,13 @@ The database contains two tables:
 Some Buses are already there in the database on the following routes:
 1) Kanpur - Guna
 2) Kanpur - Ambala
+
+Some Screenshots of the interface: 
+
+![Alt text](https://i.ibb.co/hf3g9Pt/Screenshot-from-2021-02-28-22-35-55.png "Preview")
+
+![Alt text](https://i.ibb.co/4mShH4z/Screenshot-from-2021-02-28-22-36-05.png "Preview")
+
+![Alt text](https://i.ibb.co/t3ZfmzW/Screenshot-from-2021-02-28-22-36-00.png "Preview")
+
+![Alt text](https://i.ibb.co/GWLyx8J/Screenshot-from-2021-02-28-22-36-59.png "Preview")
